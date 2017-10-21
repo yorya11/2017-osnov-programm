@@ -3,7 +3,7 @@ import sys
 lines =  sys.stdin.readlines()
 tag_count = {}
 words = {}
-words_of_words = {}
+words_of_word = {}
 total = 0
 for line in lines:
 	if '\t' not in line:
