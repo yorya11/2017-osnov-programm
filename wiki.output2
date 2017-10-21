@@ -1,0 +1,96 @@
+# sent_id = 1
+# line = Piäsivu:
+1	Piäsivu	_	noun	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+# sent_id = 2
+# line = Kategouriet:<br>
+1	Kategouriet	_	noun	_	_	_	_	_	_
+2	:<br>	_	_	_	_	_	_	_	_
+# sent_id = 3
+# line = <br>
+1	<br>	_	_	_	_	_	_	_	_
+# sent_id = 4
+# line = 1.
+1	1	_	num	_	_	_	_	_	_
+2	.	_	punct	_	_	_	_	_	_
+# sent_id = 5
+# line = elokuudu:
+1	elokuudu	_	noun	_	_	_	_	_	_
+2	:	_	punct	_	_	_	_	_	_
+# sent_id = 6
+# line = 1.
+1	1	_	num	_	_	_	_	_	_
+2	.	_	punct	_	_	_	_	_	_
+# sent_id = 7
+# line = elokuudu — 213.
+1	elokuudu	_	noun	_	_	_	_	_	_
+2	—	_	_	_	_	_	_	_	_
+3	213	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+# sent_id = 8
+# line = vuvven päivy (214.
+1	vuvven	_	noun	_	_	_	_	_	_
+2	päivy	_	noun	_	_	_	_	_	_
+3		_	_	_	_	_	_	_	_
+4	(214	_	_	_	_	_	_	_	_
+5	.	_	punct	_	_	_	_	_	_
+# sent_id = 9
+# line = päivy kargavusvuon) grigorianskoin kalenderin mugah.
+1	päivy	_	noun	_	_	_	_	_	_
+2	kargavusvuon	_	noun	_	_	_	_	_	_
+3	)	_	punct	_	_	_	_	_	_
+4	grigorianskoin	_	noun	_	_	_	_	_	_
+5	kalenderin	_	noun	_	_	_	_	_	_
+6	mugah	_	postp	_	_	_	_	_	_
+7	.	_	punct	_	_	_	_	_	_
+# sent_id = 10
+# line = Vuvven loppussah on 152 päiviä.
+1	Vuvven	_	noun	_	_	_	_	_	_
+2	loppussah	_	noun	_	_	_	_	_	_
+3	on	_	verb	_	_	_	_	_	_
+4	152	_	num	_	_	_	_	_	_
+5	päiviä	_	noun	_	_	_	_	_	_
+6	.	_	punct	_	_	_	_	_	_
+# sent_id = 11
+# line = 1.
+1	1	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+# sent_id = 12
+# line = heinykuudu:
+1	heinykuudu	_	noun	_	_	_	_	_	_
+2	:	_	punct	_	_	_	_	_	_
+# sent_id = 13
+# line = 1.
+1	1	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+# sent_id = 14
+# line = heinykuudu - 182.
+1	heinykuudu	_	noun	_	_	_	_	_	_
+2		_	_	_	_	_	_	_	_
+3	-	_	punct	_	_	_	_	_	_
+4	182	_	num	_	_	_	_	_
+5	.	_	punct	_	_	_	_	_	_
+# sent_id = 15
+# line = vuvven päivy (183.
+1	vuvven	_	noun	_	_	_	_	_	_
+2	päivy	_	noun	_	_	_	_	_	_
+3		_	_	_	_	_	_	_	_
+4	(183	_	_	_	_	_	_	_	_
+5	.	_	punct	_	_	_	_	_	_
+# sent_id = 16
+# line = päivy kargavusvuon) grigorianskoin kalenduaruan mugah.
+1	päivy	_	noun	_	_	_	_	_	_
+2	kargavusvuon	_	noun	_	_	_	_	_	_
+3	)	_	punct	_	_	_	_	_	_
+4	grigorianskoin	_	noun	_	_	_	_	_	_
+5	kalenduaruan	_	noun	_	_	_	_	_	_
+6	mugah	_	postp	_	_	_	_	_	_
+7	.	_	num	_	_	_	_	_	_
+# sent_id = 17
+# line = Vuvven loppussah on 183 päiviä.
+1	Vuvven	_	noun	_	_	_	_	_	_
+2	loppussah	_	noun	_	_	_	_	_	_
+3	on	_	verb	_	_	_	_	_	_
+4	183	_	num	_	_	_	_	_	_
+5	päiviä	_	noun	_	_	_	_	_	_
+6	.	_	punct	_	_	_	_	_	_
