@@ -1,4 +1,6 @@
 import sys
+bileet = ['#p','count','tag', 'form']
+print('\t'.join(bileet))
 
 lines =  sys.stdin.readlines()
 tag_count = {}
@@ -31,7 +33,7 @@ print()
 
 for tag in tag_count:
 	freq = tag_count[tag]/total
-	print(tag, tag_count[tag], freq)
+	print('%.2f\t%d\t%s\t_'%(freq, tag_count[tag], tag))
 
 for word in words:
 	for tag in words[word]:
