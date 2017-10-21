@@ -21,7 +21,7 @@ for line in lines:
 	if word not in words_of_word:
 		words_of_word[word] = 0
 	words_of_word[word] = words_of_word[word] + 1
-	if word not in words[word]:
+	if word not in words:
 		words[word] = {}
 	if tag not in words[word]:
 		words[word][tag] = 0
